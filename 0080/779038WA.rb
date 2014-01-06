@@ -1,0 +1,1 @@
+n=0;puts'%.6f'%n**(1/3.0)while(n=gets.to_i)>0

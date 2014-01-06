@@ -1,0 +1,1 @@
+p (0..100).to_a.combination($F[0]).select{|x|x.inject(:+)==$F[1]}.size while($F=gets.split.map(&:to_i))!=[0,0]

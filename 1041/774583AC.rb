@@ -1,0 +1,1 @@
+(r=0;$n.times{r+=gets.oct};p r)while($n=gets.to_i/4)>0

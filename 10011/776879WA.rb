@@ -1,0 +1,1 @@
+gets;puts gets.chop.reverse

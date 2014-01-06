@@ -1,0 +1,1 @@
+gets;p$<.map{|l|l.split.map(&:to_i).inject:+}.max

@@ -1,0 +1,1 @@
+p$<.count{|l|l.chop!.reverse==l}

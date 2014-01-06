@@ -1,0 +1,1 @@
+p (1..3).map{gets.to_i}.min+[1,1].map{gets.to_i}.min-50

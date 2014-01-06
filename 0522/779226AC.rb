@@ -1,0 +1,1 @@
+$<.map{|l|p l.scan('JOI').size;p l.gsub(?I,'II').scan('IOI').size}

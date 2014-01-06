@@ -1,0 +1,1 @@
+gets;puts$<.map{|x|x.gsub(/(Hoshin)o/,'\1a')}

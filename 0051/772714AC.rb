@@ -1,0 +1,1 @@
+gets;$<.map{|x|b=x.chars.sort*'';p b.reverse.to_i-b.to_i}

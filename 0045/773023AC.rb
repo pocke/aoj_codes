@@ -1,0 +1,1 @@
+s=t=0;eval"a,b=#$_;s+=a*b;t+=b"while gets;p s,(t*1.0/$.).round

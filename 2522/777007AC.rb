@@ -1,0 +1,1 @@
+puts gets.size>6&&$_[/\d/]&&$_[/[A-Z]/]&&$_[/[a-z]/]?:VALID:'INVALID'
